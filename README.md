@@ -11,7 +11,7 @@ with the highest similarity, which are then input into the counting model. In fe
 using the SAM model to automatically segment exemplar images, with the segmented results subsequently fed into the counting model for object estimation.
 This method combines zero-shot and few-shot learning strategies, offering an efficient and flexible solution for object counting.
 
-<img src="./figures/pipeline.png" alt="Pipeline" style="width: 100%;">
+<img src="pipeline.png" alt="Pipeline" style="width: 100%;">
 
 ## Acknowledgment
 This repo heavily based on [BMNet]([https://link-url-here.org](https://github.com/flyinglynx/Bilinear-Matching-Network)https://github.com/flyinglynx/Bilinear-Matching-Network). Thanks for the great work.
